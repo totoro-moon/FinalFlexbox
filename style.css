@@ -39,7 +39,7 @@ footer{
   background-color: #9bcddb;
 }
 footer ul{
-  height: 8vh;
+  height: 10vh;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
