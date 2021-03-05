@@ -1,0 +1,46 @@
+.container{
+  width: 80%;
+  height: 500%;
+  display: flex;
+  flex-direction: column;
+  padding: 5% 0 0 10% ;
+}
+#head{
+  background-color: #5de011;
+  height: 15vh;
+}
+nav{
+  background-color: #f9eda7;
+}
+nav ul{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+section{
+  display: flex;
+  height: 30vh;
+}
+
+#AsideGauche{
+  background-color: #f6ff02;
+  flex-grow: 1;
+}
+#SectionCentre{
+  background-color: #09f1f9;
+  flex-grow: 5;
+}
+#AsideDroite{
+  background-color: #f46b35;
+  flex-grow: 1;
+}
+footer{
+  height: 12vh;
+  background-color: #9bcddb;
+}
+footer ul{
+  height: 8vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
