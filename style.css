@@ -21,7 +21,6 @@ section{
   display: flex;
   height: 30vh;
 }
-
 #AsideGauche{
   background-color: #f6ff02;
   flex-grow: 1;
